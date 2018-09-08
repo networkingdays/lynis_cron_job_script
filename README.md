@@ -1,0 +1,1 @@
+# lynis_cron_job_script
